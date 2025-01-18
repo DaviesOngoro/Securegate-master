@@ -1,7 +1,8 @@
 ## Security Staff Management and Incident Reporting System.
 ## Description
   This app manages security incidents recorded within the school generate reports based on the data entered. It also manages the security staff and assigns them     to different Access Points Through out the school.
-![Screenshot (56)](https://github.com/itsfidelgray/anothertest/assets/63525545/1fceedf0-c0c1-4cc6-a83a-8897ccb59481)
+![256733598-1fceedf0-c0c1-4cc6-a83a-8897ccb59481](https://github.com/user-attachments/assets/080f478d-f3cd-4c49-8d87-612ddf744c2b)
+
 
 ![Screenshot (43)](https://github.com/itsfidelgray/anothertest/assets/63525545/170f29f4-ce9f-47fd-b8c5-c90322cb7ef3)
 ![Screenshot (44)](https://github.com/itsfidelgray/anothertest/assets/63525545/b46b8d11-d95e-4e7b-a449-4636b325281f)
