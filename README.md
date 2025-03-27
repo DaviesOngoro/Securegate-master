@@ -1,45 +1,22 @@
 ## Security Staff Management and Incident Reporting System.
 ## Description
   This app manages security incidents recorded within the school generate reports based on the data entered. It also manages the security staff and assigns them     to different Access Points Through out the school.
-![256733598-1fceedf0-c0c1-4cc6-a83a-8897ccb59481](https://github.com/user-attachments/assets/080f478d-f3cd-4c49-8d87-612ddf744c2b)
 
+![Screenshot (305)](https://github.com/user-attachments/assets/0224a9df-bc7c-4d0d-b00d-f0934b50b3fb)
 
- ![43](https://github.com/user-attachments/assets/aa93f821-f4cd-4650-a3b4-9bf406a02ee7)
-
-![Screenshot (305)](https://github.com/user-attachments/assets/f73cb515-6af8-4517-bf87-ff750cc0cb7c)
-
-
-
-
-
-![47](https://github.com/user-attachments/assets/e887b418-8c9b-47cd-a51d-df1336813781)
-
-
-
-
-![49](https://github.com/user-attachments/assets/c9ad7c7a-b6bb-4185-b5b5-d81348997fb0)
-
-
-![50](https://github.com/user-attachments/assets/0dfdf015-73c0-4549-bc7a-278849720cfc)
-
-![51](https://github.com/user-attachments/assets/d7c0cfd9-188a-45c0-9bd2-53a538014a22)
-
-![52](https://github.com/user-attachments/assets/4944eddb-c910-467f-9e6f-4986b2559ed1)
-
-
-![53](https://github.com/user-attachments/assets/2a46e2ee-a2d2-4962-b6a8-8462c4ef1be7)
-
-
-![54](https://github.com/user-attachments/assets/96134cd1-b809-462a-9986-db7787d69767)
-
-![55](https://github.com/user-attachments/assets/bcd6db15-f1f3-4674-a703-4f8cad492f96)
-
-![57](https://github.com/user-attachments/assets/c2a9c5f4-32f3-45a4-b4a9-97b49bd0b54c)
-
-
-![68](https://github.com/user-attachments/assets/750dd21a-fdbf-46ec-9d54-8173dafcb37c)
-
-![69](https://github.com/user-attachments/assets/8a691c95-04b6-4a3c-bd41-15f3215727bc)
-
-![70](https://github.com/user-attachments/assets/cd9cdd18-f0ee-43de-8fc0-e3bd0476ba52)
-
+ 
+![70](https://github.com/user-attachments/assets/1a723730-8f25-4be5-a5cd-44abf198d974)
+![69](https://github.com/user-attachments/assets/9d4c8014-2595-4a26-b08d-b928675d0cca)
+![68](https://github.com/user-attachments/assets/b7629e2c-2cf9-41cd-a1a7-357c4a71d187)
+![57](https://github.com/user-attachments/assets/c0db7a30-c016-4e29-9847-703563ced213)
+![55](https://github.com/user-attachments/assets/aa7d83e9-602f-42f4-bef3-9c7efbdfc178)
+![54](https://github.com/user-attachments/assets/0c7caa5a-72d6-4aab-8d28-abcc96425f4e)
+![53](https://github.com/user-attachments/assets/be00623d-86c3-42cc-ac9d-3e7be1f80d1d)
+![52](https://github.com/user-attachments/assets/00aa3ce7-9043-4f9c-8559-6c445e33731d)
+![51](https://github.com/user-attachments/assets/72417100-6253-4789-aed1-16a76443e62c)
+![50](https://github.com/user-attachments/assets/c4c33416-9e5a-43b2-87c5-e3c2c2456244)
+![49](https://github.com/user-attachments/assets/3321bed2-8a51-46ed-a6d5-f0f9e618f4e6)
+![47](https://github.com/user-attachments/assets/edc3ed7f-e7bc-4500-8c3e-5dc8cd95aa2e)
+![46](https://github.com/user-attachments/assets/780f7d20-219a-4a19-baea-c5c0ec576faf)
+![44](https://github.com/user-attachments/assets/7c33a83c-34f5-49ca-a03a-5784bfa321e8)
+![Screenshot (306)](https://github.com/user-attachments/assets/243da028-cbcd-49af-bb76-49a4396aa1a4)
