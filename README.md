@@ -11,10 +11,6 @@
 
 
 
-![46](https://github.com/user-attachments/assets/93a62d98-99cb-41e9-8814-c6937412c9a3)
-
-
-
 
 ![47](https://github.com/user-attachments/assets/e887b418-8c9b-47cd-a51d-df1336813781)
 
