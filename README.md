@@ -4,26 +4,45 @@
 ![256733598-1fceedf0-c0c1-4cc6-a83a-8897ccb59481](https://github.com/user-attachments/assets/080f478d-f3cd-4c49-8d87-612ddf744c2b)
 
 
-![Screenshot (43)](https://github.com/itsfidelgray/anothertest/assets/63525545/170f29f4-ce9f-47fd-b8c5-c90322cb7ef3)
-![Screenshot (44)](https://github.com/itsfidelgray/anothertest/assets/63525545/b46b8d11-d95e-4e7b-a449-4636b325281f)
+ ![43](https://github.com/user-attachments/assets/aa93f821-f4cd-4650-a3b4-9bf406a02ee7)
 
-![Screenshot (57)](https://github.com/itsfidelgray/anothertest/assets/63525545/a413401b-ebfa-40e2-ab5c-5e3cbd5482f4)
-
-![Screenshot (46)](https://github.com/itsfidelgray/anothertest/assets/63525545/7829c84e-abb7-4fd8-b0e3-b22ddc0eab51)
+![44](https://github.com/user-attachments/assets/d44628ed-8bd0-432b-a475-b7fa95d0cce9)
 
 
-![Screenshot (47)](https://github.com/itsfidelgray/anothertest/assets/63525545/c8842e0e-6291-4c54-9d88-cef9d11d77c7)
-![Screenshot (49)](https://github.com/itsfidelgray/anothertest/assets/63525545/20c664d9-4dbb-4337-87ba-843d25f92951)
-![Screenshot (68)](https://github.com/itsfidelgray/UmmaSecuregate/assets/63525545/22fbfaae-82b0-403c-b712-cd05be7ec751)
-![Screenshot (69)](https://github.com/itsfidelgray/UmmaSecuregate/assets/63525545/87574be6-bb1c-4fe8-af03-0fedaf5ad55f)
 
-![Screenshot (70)](https://github.com/itsfidelgray/UmmaSecuregate/assets/63525545/444e2f30-8cef-43f7-b388-a0690001b1e5)
+![46](https://github.com/user-attachments/assets/93a62d98-99cb-41e9-8814-c6937412c9a3)
 
-![Screenshot (50)](https://github.com/itsfidelgray/anothertest/assets/63525545/1027f3fc-b9bc-4021-b81f-be82f9200fed)
 
-![Screenshot (51)](https://github.com/itsfidelgray/anothertest/assets/63525545/6a3db2e7-6c46-4d2f-9ac8-869c65902c02)
-![Screenshot (52)](https://github.com/itsfidelgray/anothertest/assets/63525545/48015fac-423f-4c97-9a6b-901d0b307eeb)
 
-![Screenshot (53)](https://github.com/itsfidelgray/anothertest/assets/63525545/ef1e1cd5-8988-4119-89a5-03f4ad0a1920)
-![Screenshot (54)](https://github.com/itsfidelgray/anothertest/assets/63525545/4e223a43-4a26-4aaf-979f-586533d3bda8)
-![Screenshot (55)](https://github.com/itsfidelgray/anothertest/assets/63525545/441fbf6c-edff-43fc-89ec-e0ad14b9e402)
+
+![47](https://github.com/user-attachments/assets/e887b418-8c9b-47cd-a51d-df1336813781)
+
+
+
+
+![49](https://github.com/user-attachments/assets/c9ad7c7a-b6bb-4185-b5b5-d81348997fb0)
+
+
+![50](https://github.com/user-attachments/assets/0dfdf015-73c0-4549-bc7a-278849720cfc)
+
+![51](https://github.com/user-attachments/assets/d7c0cfd9-188a-45c0-9bd2-53a538014a22)
+
+![52](https://github.com/user-attachments/assets/4944eddb-c910-467f-9e6f-4986b2559ed1)
+
+
+![53](https://github.com/user-attachments/assets/2a46e2ee-a2d2-4962-b6a8-8462c4ef1be7)
+
+
+![54](https://github.com/user-attachments/assets/96134cd1-b809-462a-9986-db7787d69767)
+
+![55](https://github.com/user-attachments/assets/bcd6db15-f1f3-4674-a703-4f8cad492f96)
+
+![57](https://github.com/user-attachments/assets/c2a9c5f4-32f3-45a4-b4a9-97b49bd0b54c)
+
+
+![68](https://github.com/user-attachments/assets/750dd21a-fdbf-46ec-9d54-8173dafcb37c)
+
+![69](https://github.com/user-attachments/assets/8a691c95-04b6-4a3c-bd41-15f3215727bc)
+
+![70](https://github.com/user-attachments/assets/cd9cdd18-f0ee-43de-8fc0-e3bd0476ba52)
+
